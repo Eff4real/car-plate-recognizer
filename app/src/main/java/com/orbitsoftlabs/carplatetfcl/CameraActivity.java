@@ -123,8 +123,8 @@ public abstract class CameraActivity extends AppCompatActivity
 
 
 
-  String accountSid = "AC9195d5916e43485da1c2e366f4d4c32c";
-  String authToken = "0e1ffd49a3f7a2d2524d21476d8c3c20";
+  String accountSid = "ACCOUNT_SID";
+  String authToken = "AUTH_TOKEN";
 
   //adb shell pm grant com.orbitsoftlabs.carplatetfcl android.permission.CAMERA
   //adb shell pm clear com.orbitsoftlabs.carplatetfcl
