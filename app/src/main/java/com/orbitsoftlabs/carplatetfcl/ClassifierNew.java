@@ -79,8 +79,8 @@ public class ClassifierNew extends AppCompatActivity implements OnPictureAvailab
     private Classifier.Device device = Classifier.Device.CPU;
     private int numThreads = -1;
 
-    String accountSid = "AC133749800da1f0cba449304dba159494";
-    String authToken = "d36c512d87765bec1d140781dcd9e265";
+    String accountSid = "ACCOUNT_SID";
+    String authToken = "AUTH_TOKEN";
     String twilioSender = "+14804626379";
 
     private static final Logger LOGGER = new Logger();
