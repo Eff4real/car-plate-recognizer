@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1026231552118",
+    "project_id": "car-coding-recognizer",
+    "storage_bucket": "car-coding-recognizer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026231552118:android:31505c56639c5a63537757",
+        "android_client_info": {
+          "package_name": "com.orbitsoftlabs.carplatetfcl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1026231552118-f958tpo6ih01samd531irqo8bp7a91cb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQVV0jG6xpZrE5iwZ_dD67NynUQ1Ph_v0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1026231552118-f958tpo6ih01samd531irqo8bp7a91cb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

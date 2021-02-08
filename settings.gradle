@@ -1,0 +1,2 @@
+rootProject.name = 'CarPlateTFCL'
+include ':app', ':lib_support', ':lib_task_api', ':models'
